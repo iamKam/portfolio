@@ -1,6 +1,6 @@
 const Navlinks = [
   {
-    title: "FG",
+    title: "Home",
     link: "home",
   },
   {
