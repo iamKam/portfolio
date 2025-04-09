@@ -12,7 +12,7 @@ const Profile = () => {
       className="text-gray-600 bg-darkblue body-font pt-16 lg:min-h-75vh"
     >
       <div className="p-5 mx-auto gap-2 flex flex-col md:pt-12 md:px-7 lg:py-20 lg:flex-row-reverse items-center min-h-fit">
-        <div
+        {/* <div
           data-aos="zoom-in-up"
           data-aos-duration="1000"
           data-aos-once="false"
@@ -23,7 +23,7 @@ const Profile = () => {
             alt={ProfileData.name}
             src={ProfileData.img}
           />
-        </div>
+        </div> */}
         <div className="lg:flex-grow lg:pr-4 lg:mr-14 flex flex-col md:mb-0 items-center text-center xl:scale-105">
           <SocialHandles />
           <h2
