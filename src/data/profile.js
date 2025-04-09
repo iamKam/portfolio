@@ -2,7 +2,7 @@ const ProfileData = {
   img: require("../assets/Images/hero.png"),
   logo: require("../assets/Images/kam-logo-lg.png"),
   name: "Kam Kirmani",
-  professions: ["Web Developer", "Free Lancer", "Enthusiastic Dev"],
+  professions: ["Web Developer", "Freelancer", "Enthusiastic Dev"],
   info: [
     "Knack of building web applications using MERN stack.",
     "I enjoy designing tech websites.",

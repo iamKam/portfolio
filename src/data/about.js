@@ -1,9 +1,10 @@
 const AboutData = {
   image: require("../assets/Images/about.png"),
   description: [
-    "A passionate and dedicated web developer with a strong background in creating visually stunning and highly functional websites with 10 years of experience in the field.",
-    "Throughout my career, I have developed proficiency in various web technologies including HTML5, CSS3, JavaScript.I am well-versed in popular libraries such as React, Vue, Angular and frameworks like Next, Tailwind allowing me to build robust and responsive websites.",
-    "I'm excited to take on new challenges and contribute to innovative projects. Feel free to connect with me through my social media link",
+    "I’m a seasoned Software Engineer and Tech Lead with over 10 years of experience in architecting and delivering robust, scalable web applications and backend systems. I specialize in full-stack development with a strong emphasis on performance, security, and clean architecture.",
+    "My technical skill set includes advanced proficiency in JavaScript/TypeScript, with hands-on experience in modern frameworks such as React, Vue.js, Angular, and Next.js on the front end. On the backend, I work extensively with Node.js, NestJS, and PHP/Laravel to build efficient, API-driven systems.",
+    "Beyond development, I’m well-versed in CI/CD pipeline setup, containerization with Docker, and cloud-native deployment strategies. I have also implemented automation and performance testing workflows using tools like Puppeteer, Selenium, and JMeter to ensure high-quality software delivery.",
+    "I’m passionate about leading teams, mentoring developers, and driving innovation through clean code, best practices, and continuous learning. I'm always open to new challenges and meaningful collaborations — feel free to connect via the social links below."
   ],
 };
 export default AboutData;
